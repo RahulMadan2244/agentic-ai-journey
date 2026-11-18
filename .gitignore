@@ -1,0 +1,10 @@
+# Secrets - NEVER push these
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
